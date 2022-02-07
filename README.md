@@ -4,5 +4,4 @@
 
 <a href="project1/index.html" target="_blank">Project 1</a><br>
 <a href="project2/index.html" target="_blank">Project 2</a><br>
-<a href="http://127.0.0.1:5500/index.html" target="_blank">Project 3</a>
 
